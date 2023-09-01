@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codeTrek/static/css/main.073c9b0a.css",
-    "main.js": "/codeTrek/static/js/main.8531657b.js",
-    "static/js/787.3f3bc8f4.chunk.js": "/codeTrek/static/js/787.3f3bc8f4.chunk.js",
-    "static/media/logo.svg": "/codeTrek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/codeTrek/index.html",
-    "main.073c9b0a.css.map": "/codeTrek/static/css/main.073c9b0a.css.map",
-    "main.8531657b.js.map": "/codeTrek/static/js/main.8531657b.js.map",
-    "787.3f3bc8f4.chunk.js.map": "/codeTrek/static/js/787.3f3bc8f4.chunk.js.map"
+    "main.css": "/CodeTrek/static/css/main.073c9b0a.css",
+    "main.js": "/CodeTrek/static/js/main.d0664593.js",
+    "static/js/787.3f3bc8f4.chunk.js": "/CodeTrek/static/js/787.3f3bc8f4.chunk.js",
+    "static/media/logo.svg": "/CodeTrek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodeTrek/index.html",
+    "main.073c9b0a.css.map": "/CodeTrek/static/css/main.073c9b0a.css.map",
+    "main.d0664593.js.map": "/CodeTrek/static/js/main.d0664593.js.map",
+    "787.3f3bc8f4.chunk.js.map": "/CodeTrek/static/js/787.3f3bc8f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8531657b.js"
+    "static/js/main.d0664593.js"
   ]
 }
