@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CodeTrek/static/css/main.073c9b0a.css",
-    "main.js": "/CodeTrek/static/js/main.d0664593.js",
-    "static/js/787.3f3bc8f4.chunk.js": "/CodeTrek/static/js/787.3f3bc8f4.chunk.js",
-    "static/media/logo.svg": "/CodeTrek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CodeTrek/index.html",
-    "main.073c9b0a.css.map": "/CodeTrek/static/css/main.073c9b0a.css.map",
-    "main.d0664593.js.map": "/CodeTrek/static/js/main.d0664593.js.map",
-    "787.3f3bc8f4.chunk.js.map": "/CodeTrek/static/js/787.3f3bc8f4.chunk.js.map"
+    "main.css": "/louisfilip.com/static/css/main.073c9b0a.css",
+    "main.js": "/louisfilip.com/static/js/main.a993cb03.js",
+    "static/js/787.3f3bc8f4.chunk.js": "/louisfilip.com/static/js/787.3f3bc8f4.chunk.js",
+    "static/media/logo.svg": "/louisfilip.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/louisfilip.com/index.html",
+    "main.073c9b0a.css.map": "/louisfilip.com/static/css/main.073c9b0a.css.map",
+    "main.a993cb03.js.map": "/louisfilip.com/static/js/main.a993cb03.js.map",
+    "787.3f3bc8f4.chunk.js.map": "/louisfilip.com/static/js/787.3f3bc8f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d0664593.js"
+    "static/js/main.a993cb03.js"
   ]
 }
