@@ -2,7 +2,7 @@
   "name": "codeTrek",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codeTrekIV.github.io/codeTrek",
+  "homepage": "https://codetrekiv.github.io/CodeTrek/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
